@@ -1,8 +1,6 @@
 # DayZ Offline / Single Player Launcher 🧟‍♂️
 
-Jednoduchý `.bat` skript pro spuštění **lokálního offline serveru** pro hru DayZ. Tento skript ti umožní hrát DayZ v režimu "Single Player" (LAN), testovat nové updaty, stavět základny nebo prostě hrát bez ostatních hráčů.
-
-📺 **Tento kód je součástí video návodu na YouTube:** https://youtu.be/1KFTUsijF_g
+Jednoduchý `.bat` skript pro spuštění **lokálního offline serveru** pro hru DayZ. Tento skript ti umožní hrát DayZ v režimu "Single Player" (LAN), testovat nové updaty, stavět základny nebo prostě hrát bez ostatních hráčů
 
 ---
 
